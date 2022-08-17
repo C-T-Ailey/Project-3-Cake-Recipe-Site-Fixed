@@ -23,7 +23,7 @@ The idea was to crowdsource variations of well known and lesser known cakes from
 ## Approach
 [Project Trello Board](https://trello.com/invite/b/cm2jmZuT/d458fa353c6048c1ef123e2b9457e1d0/ga-project-3)
 
-![Website Flow Chart](https://trello.com/1/cards/62b5e598273de413c9f1ee90/attachments/62b5e5be95c2cb41f3c9c91b/previews/62b5e5c195c2cb41f3c9ca48/download/Cake_Recipe_Site_Flowchart_v01.jpg)
+![Website Flow Chart](https://i.imgur.com/DcoBuTn.jpg)
 
 The first step in our approach to building our app was to map the routes and CRUD operations through the site in a flow chart, and establish the ERD for the objects we planned to use. Once we had a clear path forward, we began with pair programming sessions to construct the bones of the app - namely, the initial URL paths, the models we intended to use, and some placeholder templates. 
 
