@@ -38,7 +38,7 @@ Unfortunately, we initialised our Git folders in the wrong locations at the begi
 
 ## Application Architecture
 ### ERD
-![Project ERD](https://trello.com/1/cards/62b5e53532359505ca19185d/attachments/62b5e58d6e82706751d1e593/previews/62b5e58d6e82706751d1e5da/download/Cake_Project_ERD.jpg)
+![Project ERD](https://i.imgur.com/mqSECl8.jpg)
 
 ### USER STORIES
 * As a visitor, I want to be able to browse the cakes to see which ones I want to make.
@@ -51,15 +51,15 @@ Unfortunately, we initialised our Git folders in the wrong locations at the begi
 ### WIREFRAMES
 [Full Wireframes on Figma](https://www.figma.com/file/TZoFGaVXjTqfhnrhjKanf3/Project-3---Have-your-cake-and-eat-it?node-id=0%3A1)
 * Home Page - For Visitors
-![Home Page - For Visitors](https://trello.com/1/cards/62bda022f57beb1bff75fca8/attachments/62bda06657db3e2b8341324e/previews/62bda06657db3e2b83413290/download/image.png)
+![Home Page - For Visitors](https://i.imgur.com/pFWwHxv.png)
 * Home Page - For Users
-![Home Page - For Users](https://trello.com/1/cards/62bda022f57beb1bff75fca8/attachments/62bda03e59802f1b550a3d44/previews/62bda03f59802f1b550a3d8b/download/image.png)
+![Home Page - For Users](https://i.imgur.com/alTCmCq.png)
 * Cake Index
-![Cake Index](https://trello.com/1/cards/62bda022f57beb1bff75fca8/attachments/62bda08682bd755b6b00051a/previews/62bda08682bd755b6b000531/download/image.png)
+![Cake Index](https://i.imgur.com/CpsZtyT.png)
 * Cake Detail
-![Cake Detail](https://trello.com/1/cards/62bda022f57beb1bff75fca8/attachments/62bda0adb4dca44688de4856/previews/62bda0aeb4dca44688de489e/download/image.png)
+![Cake Detail](https://i.imgur.com/NRk7xAW.png)
 * Cake Detail - Modal
-![Cake Detail - Modal](https://trello.com/1/cards/62bda022f57beb1bff75fca8/attachments/62bda0d892f37e1cb1d4a79b/previews/62bda0d992f37e1cb1d4a80f/download/image.png)
+![Cake Detail - Modal](https://i.imgur.com/vP7Jxt2.png)
 
 ## Major Hurdles Overcome
 * Pagination on the Cake Index page but particularly of the recipes on the Cake Detail page
