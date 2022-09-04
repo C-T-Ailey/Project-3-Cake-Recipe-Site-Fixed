@@ -2,7 +2,7 @@
 
 ### Deployed App: https://cakeprojectapp.herokuapp.com/
 
-![cakesera](https://i.imgur.com/7ePFFoZ.gif)
+![Cake Sera Sera screenshot](https://imgur.com/4kiZsw3.png)
 
 #### Table of Contents
 * Introduction
